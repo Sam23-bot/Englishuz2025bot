@@ -1,0 +1,4 @@
+aiogram==3.7.0
+edge-tts==6.1.9
+aiosqlite==0.20.0
+apscheduler==3.10.4
